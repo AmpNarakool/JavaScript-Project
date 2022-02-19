@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(136, 213, 241);
+}
+form{
+    text-align: center;
+}
+.input-group{
+    width: 40%;
+    margin: 0 auto;
+
+}
+h3{
+    margin: 50px 0px 50px 0px;
+}
+.input-group-text{
+    width: 40%;
+}
